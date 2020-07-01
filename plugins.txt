@@ -1,1 +1,1 @@
-blueocean:1.19.0
+blueocean:1.23.2
